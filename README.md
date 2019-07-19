@@ -1,2 +1,2 @@
 # Intro-to-Python
-My exercises on Python from Udemy bootcamp
+My notes and exercises on Python from Udemy bootcamp
